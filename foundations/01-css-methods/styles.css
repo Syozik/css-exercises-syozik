@@ -1,0 +1,10 @@
+/* stylesheet */
+
+div {
+    color: white;
+    background-color: red;
+    font-size: 32px;
+    font-weight: 500;
+    font-family: san-serif;
+    text-align: center;
+}
